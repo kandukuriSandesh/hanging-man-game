@@ -1,0 +1,27 @@
+.buttonDiv{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+
+}
+
+
+
+.button{
+    padding: 20px;
+    aspect-ratio: 1/1;
+    background-color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.button:hover:not(:disabled){
+    background-color: rgb(194, 255, 255);
+}
+
+.buttonBack{
+    background-color: aqua;
+}

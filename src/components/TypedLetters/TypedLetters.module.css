@@ -1,0 +1,21 @@
+
+.wordDiv{
+    display: flex;
+    gap: 10px;
+}
+
+
+.word{
+    padding: 5px;
+    height: 40px;
+    width: 20px;
+    font-size: 40px;
+    aspect-ratio: 1/1;
+    text-transform: uppercase;
+    border-bottom: 5px solid black;
+    text-align: center;
+}
+
+.wordHidden{
+    visibility: hidden;
+}
