@@ -1,4 +1,4 @@
-import React, { type JSX } from 'react'
+import { type JSX } from 'react'
 import styles from './HangingMan.module.css'
 
 type HangingManProps = {

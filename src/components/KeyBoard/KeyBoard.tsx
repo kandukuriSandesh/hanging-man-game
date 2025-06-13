@@ -1,4 +1,3 @@
-import React from 'react'
 import styles from './KeyBoard.module.css'
 import { keys } from '../../constants'
 
